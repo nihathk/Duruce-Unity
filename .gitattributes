@@ -1,0 +1,5 @@
+Duruce_Data/level0.resS filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+level0 filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+level0.resS filter=lfs diff=lfs merge=lfs -text
